@@ -1,0 +1,4 @@
+Hi,
+This is my first test for Debug School.
+I will be creating a program that will read a text file from the file system and output into the terminal the number of lines the file contains.
+I will do my best to take smaller steps that normal..
